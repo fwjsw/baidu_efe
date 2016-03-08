@@ -7,8 +7,8 @@
 
 
 
-git status  查看当前状态  是否有修改东西
-git -am ‘注释’ 从工作区直接提交到版本库
+>git status  查看当前状态  是否有修改东西
+>git -am ‘注释’ 从工作区直接提交到版本库
 git log  查看提交历史  q键退出
 git diff  对比  显示工作区和暂存区的差异对比
 git diff --cached （或--staged这个写法）暂存区与版本区的对比
